@@ -107,7 +107,7 @@ const Deals = () => {
                     <div className="col">
                         <div className="card shadow-lg">
                             <div className="card-img">
-                                <img src="./images/4.jpg" className="card-img-top" alt="..." style={{ height: '400px' }} />
+                                <img src="./images/4.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
                             </div>
                             <div className="card-body">
                                 <center><h5 className="card-title">Card title</h5></center>
@@ -118,7 +118,7 @@ const Deals = () => {
                     <div className="col">
                         <div className="card shadow-lg">
                             <div className="card-img">
-                                <img src="./images/1.jpg" className="card-img-top" alt="..." style={{ height: '400px' }} />
+                                <img src="./images/1.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
                             </div>
                             <div className="card-body">
                                 <h5 className="card-title text-center">Card title</h5>
@@ -129,7 +129,7 @@ const Deals = () => {
                     <div className="col">
                         <div className="card shadow-lg">
                             <div className="card-img">
-                                <img src="./images/2.jpg" className="card-img-top" alt="..." style={{ height: '400px' }} />
+                                <img src="./images/2.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
                             </div>
                             <div className="card-body">
                                 <h5 className="card-title text-center">Card title</h5>
@@ -140,7 +140,73 @@ const Deals = () => {
                     <div className="col">
                         <div className="card shadow-lg">
                             <div className="card-img">
-                                <img src="./images/3.jpg" className="card-img-top" alt="..." style={{ height: '400px' }} />
+                                <img src="./images/3.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
+                            </div>
+                            <div className="card-body">
+                                <h5 className="card-title text-center">Card title</h5>
+                                <center><button className="btn btn-success">View Details</button></center>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="card shadow-lg">
+                            <div className="card-img">
+                                <img src="./images/4.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
+                            </div>
+                            <div className="card-body">
+                                <h5 className="card-title text-center">Card title</h5>
+                                <center><button className="btn btn-success">View Details</button></center>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="card shadow-lg">
+                            <div className="card-img">
+                                <img src="./images/5.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
+                            </div>
+                            <div className="card-body">
+                                <h5 className="card-title text-center">Card title</h5>
+                                <center><button className="btn btn-success">View Details</button></center>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="card shadow-lg">
+                            <div className="card-img">
+                                <img src="./images/7.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
+                            </div>
+                            <div className="card-body">
+                                <h5 className="card-title text-center">Card title</h5>
+                                <center><button className="btn btn-success">View Details</button></center>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="card shadow-lg">
+                            <div className="card-img">
+                                <img src="./images/10.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
+                            </div>
+                            <div className="card-body">
+                                <h5 className="card-title text-center">Card title</h5>
+                                <center><button className="btn btn-success">View Details</button></center>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="card shadow-lg">
+                            <div className="card-img">
+                                <img src="./images/8.jpg" className="card-img-top" alt="..." style={{ height: '300px' }} />
+                            </div>
+                            <div className="card-body">
+                                <h5 className="card-title text-center">Card title</h5>
+                                <center><button className="btn btn-success">View Details</button></center>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="card shadow-lg">
+                            <div className="card-img">
+                                <img src="./images/9.jpg" className="card-img-top" alt="..." style={{ height: '200px' }} />
                             </div>
                             <div className="card-body">
                                 <h5 className="card-title text-center">Card title</h5>
